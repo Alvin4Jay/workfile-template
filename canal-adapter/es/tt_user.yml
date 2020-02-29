@@ -1,0 +1,14 @@
+dataSourceKey: defaultDS
+destination: example
+groupId:
+esMapping:
+  _index: tt_user
+  _type: _doc
+  _id: _id
+  upsert: true
+#  pk: id
+  sql: "select a.id as _id, a.name, a.email  from user a"
+#  objFields:
+#    _labels: array:;
+# etlCondition:
+  commitBatch: 3000
