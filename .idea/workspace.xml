@@ -1,54 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="cee7a7a2-479b-48c2-8aa6-00b5be53da3c" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/c4.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/canal-adapter/application.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/canal-adapter/es/biz_order.yml.bak" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/canal-adapter/es/customer.yml.bak" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/canal-adapter/es/mytest_user.yml.bak" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/canal-adapter/es/tt_user.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/canal/canal.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/canal/instance.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/es/config/elasticsearch.keystore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/es/config/elasticsearch.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/es/config/jvm.options" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/es/config/log4j2.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/es/config/role_mapping.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/es/config/roles.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/es/config/users" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/es/config/users_roles" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/kafka/config/connect-console-sink.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/kafka/config/connect-console-source.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/kafka/config/connect-distributed.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/kafka/config/connect-file-sink.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/kafka/config/connect-file-source.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/kafka/config/connect-log4j.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/kafka/config/connect-mirror-maker.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/kafka/config/connect-standalone.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/kafka/config/consumer.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/kafka/config/log4j.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/kafka/config/producer.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/kafka/config/server-1.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/kafka/config/server-2.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/kafka/config/server-3.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/kafka/config/server.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/kafka/config/tools-log4j.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/kafka/config/trogdor.conf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/kafka/config/zookeeper.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mac-config/.bash_profile" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mac-config/.bashrc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mac-config/.ideavimrc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mac-config/.vimrc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mac-config/.zshrc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/zookeeper/zoo.cfg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/workfile-template.iml" beforeDir="false" afterPath="$PROJECT_DIR$/workfile-template.iml" afterDir="false" />
-    </list>
+    <list default="true" id="cee7a7a2-479b-48c2-8aa6-00b5be53da3c" name="Default Changelist" comment="" />
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -62,28 +15,7 @@
     <option name="delegatedBuild" value="true" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/kafka/config/server.properties">
-          <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/kafka/config/server-1.properties">
-          <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/kafka/config/server-2.properties">
-          <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/kafka/config/server-3.properties">
-          <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
-    </leaf>
+    <leaf />
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -108,60 +40,6 @@
             <path>
               <item name="workfile-template" type="b2602c69:ProjectViewProjectNode" />
               <item name="workfile-template" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="workfile-template" type="b2602c69:ProjectViewProjectNode" />
-              <item name="workfile-template" type="462c0819:PsiDirectoryNode" />
-              <item name="canal" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="workfile-template" type="b2602c69:ProjectViewProjectNode" />
-              <item name="workfile-template" type="462c0819:PsiDirectoryNode" />
-              <item name="canal-adapter" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="workfile-template" type="b2602c69:ProjectViewProjectNode" />
-              <item name="workfile-template" type="462c0819:PsiDirectoryNode" />
-              <item name="canal-adapter" type="462c0819:PsiDirectoryNode" />
-              <item name="es" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="workfile-template" type="b2602c69:ProjectViewProjectNode" />
-              <item name="workfile-template" type="462c0819:PsiDirectoryNode" />
-              <item name="es" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="workfile-template" type="b2602c69:ProjectViewProjectNode" />
-              <item name="workfile-template" type="462c0819:PsiDirectoryNode" />
-              <item name="es" type="462c0819:PsiDirectoryNode" />
-              <item name="config" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="workfile-template" type="b2602c69:ProjectViewProjectNode" />
-              <item name="workfile-template" type="462c0819:PsiDirectoryNode" />
-              <item name="kafka" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="workfile-template" type="b2602c69:ProjectViewProjectNode" />
-              <item name="workfile-template" type="462c0819:PsiDirectoryNode" />
-              <item name="kafka" type="462c0819:PsiDirectoryNode" />
-              <item name="config" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="workfile-template" type="b2602c69:ProjectViewProjectNode" />
-              <item name="workfile-template" type="462c0819:PsiDirectoryNode" />
-              <item name="mac-config" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="workfile-template" type="b2602c69:ProjectViewProjectNode" />
-              <item name="workfile-template" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="workfile-template" type="b2602c69:ProjectViewProjectNode" />
-              <item name="workfile-template" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="workfile-template" type="b2602c69:ProjectViewProjectNode" />
@@ -206,12 +84,20 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1582945887924</updated>
-      <workItem from="1582945891369" duration="1361000" />
+      <workItem from="1582945891369" duration="1523000" />
     </task>
+    <task id="LOCAL-00001" summary="mac file config">
+      <created>1582947471799</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1582947471799</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="1361000" />
+    <option name="totallyTimeSpent" value="1523000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1440" height="822" extended-state="6" />
@@ -221,14 +107,14 @@
       <window_info id="Favorites" side_tool="true" />
       <window_info id="Capture Tool" />
       <window_info id="Designer" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24964234" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24964234" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="FindBugs-IDEA" />
       <window_info anchor="bottom" id="Event Log" side_tool="true" />
       <window_info anchor="bottom" id="Terminal" weight="0.32907802" />
       <window_info anchor="bottom" id="Statistic" />
       <window_info anchor="bottom" id="Database Changes" />
-      <window_info active="true" anchor="bottom" id="Version Control" visible="true" weight="0.32907802" />
+      <window_info anchor="bottom" id="Version Control" visible="true" weight="0.32907802" />
       <window_info anchor="bottom" id="Tail" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
@@ -254,6 +140,10 @@
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="mac file config" />
+    <option name="LAST_COMMIT_MESSAGE" value="mac file config" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/pom.xml">
